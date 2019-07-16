@@ -1,0 +1,18 @@
+.table-padding tr td{
+    padding: 5px;
+}
+.no-border tr td{
+    border: 0 !important;
+}
+.border tr td{
+    border: 1px solid black !important;
+}
+
+.table{
+    margin-bottom: 0;
+}
+
+body{
+    font-size: 14px;
+    /* line-height: 0 !important; */
+}
